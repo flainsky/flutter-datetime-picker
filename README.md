@@ -13,22 +13,22 @@
   <table>
     <tr>
       <td style="text-align: center">
-        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_day.jpeg' height='200'/>
+        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_day.jpeg' height='250'/>
       </td>
       <td style="text-align: center">
-        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_week.jpeg' height='200'/>
+        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_week.jpeg' height='250'/>
       </td>
       <td style="text-align: center">
-        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_month.jpeg' height='200'/>
+        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_month.jpeg' height='250'/>
       </td>
       <td style="text-align: center">
-        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_daterange.jpeg' height='200'/>
+        <img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_daterange.jpeg' height='250'/>
       </td>
     </tr>
   </table>
  </div>
 
-# Usage
+## Usage
 
 ```dart
 class _MyHomePageState extends State<MyHomePage> {
