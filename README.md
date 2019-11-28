@@ -1,6 +1,23 @@
 # fla_datetime_picker
 
-A new Flutter project.
+A Flutter Datetime picker project.
+
+DayPicker-><br/>
+<img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_day.jpeg' height='400'/>
+
+WeekPicker-><br/>
+<img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_week.jpeg' height='400'/>
+
+MonthPicker-><br/>
+<img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_month.jpeg' height='400'/>
+
+DateRangePicker-><br/>
+<img src='https://github.com/flainsky/flutter_datetime_picker/raw/master/pics/pre_daterange.jpeg' height='400'/>
+
+<br/><br/><br/>
+<b>TODO LIST:</b><br/>
+1 Custom DateRange<br/>
+2 Multilingual<br/>
 
 ## Getting Started
 
