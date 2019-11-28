@@ -1,12 +1,12 @@
 # fla_datetime_picker
 
-A Flutter Datetime picker project.
+## A Flutter Datetime picker project which pick one day or daterange.
 
 ## Features
-1 DayPicker
-2 WeekPicker
-3 MonthPicker
-4 DateRangePicker
+- DayPicker
+- WeekPicker
+- MonthPicker
+- DateRangePicker
 
 
 <div style="text-align: center">
@@ -71,8 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
 }
 ```
 
-<br/><br/><br/>
-<b>TODO LIST:</b><br/>
+## TODO
 1 Custom DateRange<br/>
 2 Multilingual<br/>
 
